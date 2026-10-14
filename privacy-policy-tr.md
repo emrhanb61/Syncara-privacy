@@ -1,6 +1,6 @@
 # Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-_Son güncelleme: 2026-10-11_
+_Son güncelleme: 2026-10-14_
 
 ## 1. Veri Sorumlusu
 
@@ -24,7 +24,7 @@ Veriler yalnızca uygulamanın size sunduğu planlama, odaklanma ve günlük tut
 
 ## 6. Saklama süresi ve silme
 
-Veriler siz silene kadar cihazınızda kalır. Ayarlar → Tüm Verileri Sıfırla ile tüm verileri silebilir veya uygulamayı kaldırarak tamamen yok edebilirsiniz. "Verileri Dışa Aktar" özelliği verileri yalnızca sizin panonuza kopyalar.
+Veriler siz silene kadar cihazınızda kalır. Ayarlar → Tüm Veriyi Sıfırla ile tüm verileri silebilir veya uygulamayı kaldırarak tamamen yok edebilirsiniz. "Veriyi Dışa Aktar" özelliği verileri yalnızca sizin panonuza kopyalar.
 
 ## 7. Çocukların gizliliği
 
