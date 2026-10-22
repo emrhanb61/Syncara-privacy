@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 2026-10-14_
+_Last updated: 2026-10-22_
 
 ## 1. Who we are
 
@@ -8,7 +8,7 @@ Syncara is developed by an independent developer who acts as the data controller
 
 ## 2. What data the app handles
 
-Plans, projects, tasks, notes, journal entries, XP/achievements, your profile name and preferences (theme, language, notification settings, chosen wallpaper and custom sounds) are stored only on your device.
+Plans, projects, tasks, notes, journal entries, XP/achievements, your profile name and preferences (theme, language and notification settings) are stored only on your device.
 
 ## 3. Storage and sharing
 
@@ -16,7 +16,7 @@ Syncara does not send any data to a server and contains no accounts, ads, analyt
 
 ## 4. Permissions
 
-Notifications: used only to show local reminders for planned blocks and Pomodoro sessions. Photos: the system photo picker opens only when you choose a custom wallpaper; the image never leaves your device. Audio files: only the file you pick as a custom sound is used. The camera and microphone are not used.
+Notifications: used only to show local reminders for planned blocks and Pomodoro sessions. Syncara currently does not actively use camera, microphone, photo gallery or document-picker permissions.
 
 ## 5. Retention and deletion
 
