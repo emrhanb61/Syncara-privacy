@@ -1,6 +1,6 @@
 # Gizlilik Politikası ve KVKK Aydınlatma Metni
 
-_Son güncelleme: 2026-10-14_
+_Son güncelleme: 2026-10-22_
 
 ## 1. Veri Sorumlusu
 
@@ -8,7 +8,7 @@ Syncara uygulamasının geliştiricisi, 6698 sayılı Kişisel Verilerin Korunma
 
 ## 2. Hangi veriler işlenir?
 
-Uygulamaya girdiğiniz planlar, projeler, görevler, notlar, günlük kayıtları, XP/başarım bilgileri, profil adı ve tercihleriniz (tema, dil, bildirim ayarları, seçtiğiniz duvar kâğıdı ve özel sesler) yalnızca cihazınızda saklanır.
+Uygulamaya girdiğiniz planlar, projeler, görevler, notlar, günlük kayıtları, XP/başarım bilgileri, profil adı ve tercihleriniz (tema, dil ve bildirim ayarları) yalnızca cihazınızda saklanır.
 
 ## 3. Veriler nerede saklanır? Paylaşılır mı?
 
@@ -16,7 +16,7 @@ Syncara bir sunucuya veri göndermez; hesap, reklam, analitik veya takip (tracki
 
 ## 4. İzinler
 
-Bildirimler: Planlı bloklar ve Pomodoro hatırlatmaları için yalnızca cihaz üzerinde yerel bildirim gösterilir. Fotoğraflar: Yalnızca siz özel duvar kâğıdı seçtiğinizde sistem fotoğraf seçicisi açılır; seçilen görsel cihaz dışına çıkmaz. Ses dosyaları: Özel bildirim sesi eklediğinizde yalnızca seçtiğiniz dosya kullanılır. Kamera ve mikrofon kullanılmaz.
+Bildirimler: Planlı bloklar ve Pomodoro hatırlatmaları için yalnızca cihaz üzerinde yerel bildirim gösterilir. Syncara şu anda kamera, mikrofon, fotoğraf galerisi veya dosya seçici izinlerini aktif olarak kullanmaz.
 
 ## 5. İşleme amacı ve hukuki sebep
 
